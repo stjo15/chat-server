@@ -1,5 +1,5 @@
 {
-  "name": "OpenShift chat server",
+  "name": "hat server",
   "version": "1.0.0",
   "description": "Simple chat server",
   "keywords": [
@@ -9,14 +9,14 @@
     "openshift"
   ],
   "author": {
-    "name": "OpenShift",
-    "email": "ramr@example.org",
+    "name": "Chat server",
+    "email": "stalle.johansson@gmail.com",
     "url":  "http://www.openshift.com/"
   },
   "homepage": "http://www.openshift.com/",
   "repository": {
     "type": "git",
-    "url": "https://gitub.com/stjo15/webserver"
+    "url": "https://gitub.com/stjo15/chat-server"
   },
 
   "engines": {
