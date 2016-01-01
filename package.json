@@ -1,5 +1,5 @@
 {
-  "name": "hat server",
+  "name": "Chat server",
   "version": "1.0.0",
   "description": "Simple chat server",
   "keywords": [
@@ -9,7 +9,7 @@
     "openshift"
   ],
   "author": {
-    "name": "Chat server",
+    "name": "Staffan",
     "email": "stalle.johansson@gmail.com",
     "url":  "http://www.openshift.com/"
   },
